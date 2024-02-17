@@ -1,0 +1,22 @@
+package abc;
+
+public class FactorialOfANumber {
+
+	public static void main(String[] args) {
+		// 4! = 4x3x2x1
+		
+		 int num=5;
+		int fact=1;
+		
+		for(int i=1;i<=num;i++)
+		{
+			fact=fact*i;
+					
+		}
+		System.out.println("The factorial of a number is "+ fact);
+		
+		
+	}
+	
+
+}
