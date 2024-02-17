@@ -8,6 +8,7 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.e
 
 !ENTRY ch.qos.logback.classic 1 0 2024-02-14 10:48:14.904
 !MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+///////////////qwfysdkwgd fykwgjdhw wwdwofydgwlhdj
 
 !ENTRY ch.qos.logback.classic 1 0 2024-02-14 10:48:25.784
 !MESSAGE Logback config file: C:\Users\ranja\eclipse159\-workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
